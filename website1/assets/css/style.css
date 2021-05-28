@@ -7,3 +7,14 @@ body{
     max-width: 350px;
     border-radius: 100%;
 }
+#sobreponer{
+    position: relative;
+}
+#texto{
+    position: absolute;
+    top: 250px;
+    left: 470px;
+    background-color: white;
+    text-align: center;
+    
+}
