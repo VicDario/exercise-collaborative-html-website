@@ -1,0 +1,18 @@
+body{
+    background: #BDBDBD;
+}
+.picture {
+    min-width: 250px;
+    max-width: 350px;
+    border-radius: 100%;
+}
+#sobreponer{
+    position: relative;
+}
+#texto{
+    position: absolute;
+    top: 250px;
+    left: 470px;
+    background-color: white;
+    text-align: center;
+}
